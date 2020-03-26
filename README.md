@@ -2,9 +2,9 @@
 
 design source: https://dribbble.com/shots/7383956-Educational-Mobile-App/attachments/267445?mode=media
 
-Time spent: 1 hr 31 mins || hourly rate: 40usd || contact me: @cybdom (twitter) - contact@cybdom.tech (email)
+I'd appreciate it if you could show your support by buying me some coffee. Thank you :)
 
-Buy me coffee => https://www.buymeacoffee.com/bi3cp0Zk5
+https://www.buymeacoffee.com/bi3cp0Zk5
 
 
 <img src="screenshot1.jpg">
